@@ -74,7 +74,7 @@ header .profile-image {
   transition: all .5s;
 }
 header .profile-image:hover {
-  background-color: grey;
+  border-color: grey;
 }
 .tag {
   background-color: #efefef;
@@ -111,7 +111,7 @@ header .profile-image:hover {
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
-  float: center;
+  float: none;
 }
 
 ul.contactsocial {
